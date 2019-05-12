@@ -2,3 +2,4 @@ hi
 branch-1
 branch-2
 new line
+new line 2
